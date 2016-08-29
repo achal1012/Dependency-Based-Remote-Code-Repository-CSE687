@@ -1,0 +1,17 @@
+
+  <Metadata>
+    <PackageName>
+      testPackage
+    </PackageName>
+    <checkInStatus>
+      closed
+    </checkInStatus>
+    <Dependencies>
+      <Dependency>
+        a
+      </Dependency>
+      <Dependency>
+        b
+      </Dependency>
+    </Dependencies>
+  </Metadata>
